@@ -1,0 +1,17 @@
+ 
+
+altair
+pandas
+streamlit
+
+ 
+streamlit==1.30.0
+ 
+tensorflow==2.15.0
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+opencv-python-headless
+
